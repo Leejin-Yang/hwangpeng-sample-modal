@@ -1,11 +1,11 @@
 {
   "name": "hwangpeng-sample-modal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "간단한 모달 라이브러리 샘플",
   "keywords": [
     "react"
   ],
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Leejin-Yang/hwangpeng-sample-modal"
