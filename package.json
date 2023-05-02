@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "hwangpeng-sample-modal",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "간단한 모달 라이브러리 샘플",
   "keywords": [
     "react",
     "starter"
